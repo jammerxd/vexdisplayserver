@@ -1,0 +1,7 @@
+---LICENSE--
+This software is provided AS-IS
+with no guaranteed support. 
+We(jammerxd.com associates) are not
+responsible in any way for any damage(s)
+that may result from using this software.
+
